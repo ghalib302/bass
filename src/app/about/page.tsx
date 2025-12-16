@@ -14,7 +14,7 @@ const page = () => {
     </blockquote>
     <figcaption className="font-medium">
       <div className="text-sky-500 dark:text-sky-400">
-        Sarah Dayan
+        Ghalib Raza
       </div>
       <div>
         Uswa Brand
